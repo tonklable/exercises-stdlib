@@ -1,3 +1,5 @@
+My Learning Repository
+
 # Scala Exercises - Stdlib library
 
 This repository hosts a content library for the [Scala Exercises](https://www.scala-exercises.org/) platform, including interactive exercises related to the Scala standard library.
